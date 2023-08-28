@@ -71,7 +71,8 @@ stack-data
 tensorboard
 tensorboard-data-server
 tensorflow-estimator
-tensorflow
+tensorflow-macos
+tensorflow-metal
 termcolor
 tornado
 traitlets
